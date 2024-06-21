@@ -1,0 +1,246 @@
+.w30{
+    width: 30px;
+}
+.clr{
+    color: #9d9a9b;
+    font-weight: 500;
+}
+.cl-h6{
+    color: #262b2e;
+}
+.bg{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.bgshoes{
+    color: #979a9b;
+}
+.font{
+    font-size: 10vmin;
+    color: white;
+}
+.h170{
+    height: 250px;
+}
+.h100{
+    height: 100px;
+}
+.h150{
+    height: 150px;
+}
+.main-btn{
+    width: 150px;
+    height: 50px;
+    border: white;
+    color: #2d3738;
+    font-weight: 600;
+}
+.btnhover:hover{
+    background-color: #262b2c;
+    color: white;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+.btnhover1:hover{
+    background-color: white;
+    color: black;
+}
+.readmore{
+    color: #f7b543;
+    font-weight: 600;
+}
+.btnMen{
+    background-color: #00000000;
+    border: 1px solid white;
+    color: white;
+    width: 160px;
+    height: 55px;
+}
+.btnMen:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+    font-weight: 600;
+}
+.bd-dashed{
+    border-style: dashed;
+    border-width: 2px 2px 2px 2px;
+    border-color: #6e7051;
+}
+.bg1{
+    background-image: url(img1/recycled-shoe-store-shop-men-image-thumbnail.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.bg2{
+    background-image: url(img1/recycled-shoe-store-shop-women-image-tumbnail.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.bg3{
+    background-image: url(img1/recycled-shoe-store-cta-image-bg.jpg);
+    height: 550px;
+    width: 100%;
+    background-position: center;
+}
+.fs64{
+    font: 64px poppins, sans-serif;
+    font-weight: 64px;
+}
+.spantext{
+    color: #262b2c;
+    font-size: 16px;
+    align-self: center;
+}
+.icon i{
+    font-size: 17px;
+    letter-spacing: 25px;
+}
+.icon i:hover{
+    cursor: pointer;
+    color: gold;
+}
+.alink{
+    color: #6e7051;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+}
+.alink:hover{
+    color: black;
+    cursor: pointer;
+    transition: 0.2s;
+    
+}
+.fs18{
+    font-size: 18px;
+}
+.fs22{
+    font-size: 22px;
+}
+.fs20{
+    font-size: 23px;
+}
+.contact-alink{
+    color: #262b2c;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+.contact-icon{
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 10px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+.inputs{
+    height: 45px;
+    width: 100%;
+    display: block;
+}
+.textarea{
+    width: 100%;
+}
+.db{
+    display: block;
+}
+.sendbtnc{
+    background-color: #6e7051;
+    color: white;
+    height: 55px;
+    width: 180px;
+    border: #6e7051;
+    font-weight: 500;
+}
+.sendbtnc:hover{
+    background-color: #262b2c;
+    color: white;
+    cursor: pointer;
+}
+.tdn{
+    text-decoration: none;
+}
+.cbtn{
+    height: auto;
+    width: 100%;
+}
+.loremdiv{
+    height: 100px;
+    width: 640px;
+}
+.smalltext{
+    font-size: 8vmin;
+}
+.smallp{
+    font-size: 2.8vmin;
+}
+.smallspan{
+    font-size: 3vmin;
+    font-weight: 500;
+}
+.smalltexth3{
+    font-size: 4vmin;
+    font-family: poppins,sans-serif;
+    font-weight: 600;
+}
+.ourstoryp{
+    font-size: 3vmin;
+    color: #979a9b;
+}
+.ourstoryp2{
+    font-size: 3vmin;
+    color: #979a9b;
+}
+.ourstoryp3{
+    font-size: 3vmin;
+    color: #979a9b;
+}
+.vmin3{
+    font: 5vmin;
+}
+.missionp{
+    font-size: 3vmin;
+    color: #979a9b;
+}
+.vmin4{
+    font-size: 3vmin;
+    text-align: center;
+}
+.lookbookp1{
+    font-size: 3vmin;
+    color: #979a9b;
+}
+.present{
+    font: 5vmin;
+}
+.clo{
+     color: #f6aa28;
+     
+}
+.view{
+    height: 35px;
+    width: 100%;
+}
+.view:hover{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5s;
+    border: black;
+}
+
+.hide button{
+    display: none;
+}
+
+.hide:hover button{
+    display: block;
+    background-color: #000000b3;
+    color: white;
+    border: #262b2c;
+}
+
